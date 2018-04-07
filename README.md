@@ -28,7 +28,7 @@ Should work on Windows / Mac / Linux, but I've only tested on Linux.
 
 ---
 
-Download the .jar file from the releases section, and run it:
+Download the .jar file from the [releases section](https://github.com/JonasCz/KodiTralierDownloader/releases/), and run it:
 
     java -jar KodiTralierDownloader.jar --input-directory "/path/to/top-level-directory/"
     
