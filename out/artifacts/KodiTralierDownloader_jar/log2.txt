@@ -1,0 +1,432 @@
+Top-level movie directory set from commandline argument: /media/jonas/Movies/Movies (sorted)
+Processing: 12 Years a Slave (2013)
+Skipping, There's already a trailer file here: 12 Years a Slave (2013) [576i]-trailer.mkv
+
+Processing: 180° South Conquerors of the Useless (2010)
+Skipping, There's already a trailer file here: 180° South Conquerors of the Useless (2010) [SD]-trailer.mkv
+
+Processing: 2012 (2009)
+Skipping, There's already a trailer file here: 2012 (2009) [SD]-trailer.webm
+
+Processing: 99 francs (2007)
+Skipping, There's already a trailer file here: 99 francs (2007) [SD]-trailer.webm
+
+Processing: A Christmas Story (1983)
+Skipping, There's already a trailer file here: A Christmas Story (1983) [720p]-trailer.mp4
+
+Processing: A Letter to Momo (2012)
+Skipping, There's already a trailer file here: A Letter to Momo (2012) [1080p]-trailer.mp4
+
+Processing: A Single Man (2009)
+Skipping, There's already a trailer file here: A Single Man (2009) [480p]-trailer.mkv
+
+Processing: A.I. Artificial Intelligence (2001)
+Skipping, There's already a trailer file here: A.I. Artificial Intelligence (2001) [720p]-trailer.mkv
+
+Processing: Across the Universe (2007)
+Skipping, There's already a trailer file here: Across the Universe (2007) [SD]-trailer.mp4
+
+Processing: Adrift (2009)
+Skipping, There's already a trailer file here: Adrift (2009) [SD]-trailer.mkv
+
+Processing: Adrift in Tokyo (2007)
+Skipping, There's already a trailer file here: Adrift in Tokyo (2007) [SD]-trailer.mkv
+
+Processing: Afghan Star (2009)
+Skipping, There's already a trailer file here: Afghan Star (2009) [SD]-trailer.mkv
+
+Processing: Alamar (2009)
+Skipping, There's already a trailer file here: Alamar (2009) [SD]-trailer.mkv
+
+Processing: Alexander Nevsky (1938)
+Skipping, There's already a trailer file here: Alexander Nevsky (1938) [SD]-trailer.mkv
+
+Processing: Allegiant (2016)
+Skipping, There's already a trailer file here: Allegiant (2016) [1080p]-trailer.mkv
+
+Processing: Ronaldo (2015)
+Skipping, There's already a trailer file here: Ronaldo (2015) [720p]-trailer.mkv
+
+Processing: Salt (2010)
+Skipping, There's already a trailer file here: Salt (2010) [SD]-trailer.mkv
+
+Processing: Samsara (2011)
+Skipping, There's already a trailer file here: Samsara (2011) [720p]-trailer.mkv
+
+Processing: Samson and Delilah (2009)
+Skipping, There's already a trailer file here: Samson and Delilah (2009) [SD]-trailer.mp4
+
+Processing: Schindler's List (1993)
+Skipping, There's already a trailer file here: Schindler's List (1993) [720p]-trailer.mkv
+
+Processing: Secret Agent (1936)
+Skipping, There's already a trailer file here: Secret Agent (1936) [576p]-trailer.mp4
+
+Processing: Seed The Untold Story (2016)
+Skipping, There's already a trailer file here: Seed The Untold Story (2016) [SD]-trailer.mkv
+
+Processing: Selma (2014)
+Skipping, There's already a trailer file here: Selma (2014) [720p]-trailer.mkv
+
+Processing: Shaolin (2011)
+Skipping, There's already a trailer file here: Shaolin (2011) [SD]-trailer.mkv
+
+Processing: Shine (1996)
+Skipping, There's already a trailer file here: Shine (1996) [720p]-trailer.mkv
+
+Processing: Shortbus (2006)
+Skipping, There's already a trailer file here: Shortbus (2006) [SD]-trailer.mkv
+
+Processing: Shrek 1 & 2
+|> No .nfo file found
+
+Processing: Slumdog Millionaire (2008)
+Skipping, There's already a trailer file here: Slumdog Millionaire (2008) [720p]-trailer.mkv
+
+Processing: Song of the Sea (2014)
+Skipping, There's already a trailer file here: Song of the Sea (2014) [1080p]-trailer.mkv
+
+Processing: Source Code (2011)
+Skipping, There's already a trailer file here: Source Code (2011) [540p]-trailer.mkv
+
+Processing: Spirited Away (2001)
+Skipping, There's already a trailer file here: Spirited Away (2001) [720p]-trailer.mkv
+
+Processing: Spy (2015)
+Skipping, There's already a trailer file here: Spy (2015) [720p]-trailer.mkv
+
+Processing: Star Trek
+|> No .nfo file found
+
+Processing: Star Wars (1977)
+Skipping, There's already a trailer file here: Star Wars (1977) [720p]-trailer.mp4
+
+Processing: Star Wars The Force Awakens (2015)
+Skipping, There's already a trailer file here: Star Wars The Force Awakens (2015) [720p]-trailer.webm
+
+Processing: Straight Outta Compton (2015)
+Skipping, There's already a trailer file here: Straight Outta Compton (2015) [720p]-trailer.mkv
+
+Processing: I Love You Phillip Morris (2009)
+Skipping, There's already a trailer file here: I Love You Phillip Morris (2009) [SD]-trailer.mp4
+
+Processing: I'll See You in My Dreams (2015)
+Skipping, There's already a trailer file here: I'll See You in My Dreams (2015) [720p]-trailer.mkv
+
+Processing: In the Land of Blood and Honey (2011)
+Skipping, There's already a trailer file here: In the Land of Blood and Honey (2011) [SD]-trailer.mp4
+
+Processing: In the Mood for Love (2000)
+Skipping, There's already a trailer file here: In the Mood for Love (2000) [720p]-trailer.mp4
+
+Processing: Inherent Vice (2014)
+Skipping, There's already a trailer file here: Inherent Vice (2014) [720p]-trailer.mkv
+
+Processing: Insurgent (2015)
+Skipping, There's already a trailer file here: Insurgent (2015) [720p]-trailer.mkv
+
+Processing: Interstellar (2014)
+Skipping, There's already a trailer file here: Interstellar (2014) [720p]-trailer.mkv
+
+Processing: Into the Wild (2007)
+Skipping, There's already a trailer file here: Into the Wild (2007) [720p]-trailer.mp4
+
+Processing: Iron Man (2008)
+Skipping, There's already a trailer file here: Iron Man (2008) [SD]-trailer.mp4
+
+Processing: It's a Wonderful Life (1946)
+Skipping, There's already a trailer file here: It's a Wonderful Life (1946) [1080p]-trailer.mp4
+
+Processing: Jane Eyre (2011)
+|> No .nfo file found
+
+Processing: Joy (2015)
+Skipping, There's already a trailer file here: Joy (2015) [720p]-trailer.mkv
+
+Processing: Kiki's Delivery Service (1989)
+Skipping, There's already a trailer file here: Kiki's Delivery Service (1989) [1080]-trailer.mkv
+
+Processing: King Lear (2008)
+Skipping, There's already a trailer file here: King Lear-trailer.mkv
+
+Processing: Knight of Cups (2015)
+Skipping, There's already a trailer file here: Knight of Cups (2015) [720p]-trailer.mkv
+
+Processing: Kon-Tiki (2012)
+Skipping, There's already a trailer file here: Kon-Tiki (2012) [720p]-trailer.mp4
+
+Processing: Amongst White Clouds (2005)
+Skipping, There's already a trailer file here: Amongst White Clouds (2005) [720p]-trailer.mkv
+
+Processing: Amy (2015)
+Skipping, There's already a trailer file here: Amy (2015) [720p]-trailer.mkv
+
+Processing: Amélie (2001)
+Skipping, There's already a trailer file here: Amélie (2001) [720p]-trailer.mkv
+
+Processing: Analyze This (1999)
+Skipping, There's already a trailer file here: Analyze This (1999) [SD]-trailer.mkv
+
+Processing: Atanarjuat The Fast Runner (2002)
+Skipping, There's already a trailer file here: Atanarjuat The Fast Runner-trailer.mkv
+
+Processing: Avatar (2009)
+Skipping, There's already a trailer file here: Avatar (2009) [720p]-trailer.mp4
+
+Processing: Back to the Future Trilogy
+|> No .nfo file found
+
+Processing: Baraka (1992)
+Skipping, There's already a trailer file here: Baraka (1992) [SD]-trailer.mkv
+
+Processing: Beauty and the Beast (2017)
+Skipping, There's already a trailer file here: Beauty and the Beast (2017) [1080p]-trailer.mkv
+
+Processing: Bicentennial Man (1999)
+Skipping, There's already a trailer file here: Bicentennial Man (1999) [SD]-trailer.mkv
+
+Processing: Birdwatchers (2008)
+Skipping, There's already a trailer file here: Birdwatchers (2008) [SD]-trailer.mkv
+
+Processing: Blue Jasmine (2013)
+Skipping, There's already a trailer file here: Blue Jasmine (2013) [720p]-trailer.mp4
+
+Processing: Bourne series
+|> No .nfo file found
+
+Processing: Boy (2010)
+Skipping, There's already a trailer file here: Boy (2010) [SD]-trailer.mkv
+
+Processing: Bridge of Spies (2015)
+Skipping, There's already a trailer file here: Bridge of Spies (2015) [720p]-trailer.mkv
+
+Processing: Buena Vista Social Club (1999)
+Skipping, There's already a trailer file here: Buena Vista Social Club (1999) [SD]-trailer.mkv
+
+Processing: Amazonia (2013)
+Skipping, There's already a trailer file here: Amazonia (2013) [540p]-trailer.mp4
+
+Processing: C.R.A.Z.Y. (2005)
+Skipping, There's already a trailer file here: C.R.A.Z.Y. (2005) [SD]-trailer.mkv
+
+Processing: Hunt for the Wilderpeople (2016)
+Skipping, There's already a trailer file here: Hunt for the Wilderpeople (2016) [1080]-trailer.mkv
+
+Processing: Kumaré (2012)
+Skipping, There's already a trailer file here: Kumaré (2012) [SD]-trailer.mkv
+
+Processing: March of the Penguins (2005)
+Skipping, There's already a trailer file here: March of the Penguins (2005) [720p]-trailer.mkv
+
+Processing: National Lampoon's Christmas Vacation (1989)
+Skipping, There's already a trailer file here: National Lampoon's Christmas Vacation (1989) [1080p]-trailer.mkv
+
+Processing: Red Sorghum (1987)
+Skipping, There's already a trailer file here: Red Sorghum-trailer.mp4
+
+Processing: Sweet and Lowdown (1999)
+Skipping, There's already a trailer file here: Sweet and Lowdown (1999) [SD]-trailer.mkv
+
+Processing: The Kid with a Bike (2011)
+Skipping, There's already a trailer file here: The Kid with a Bike (2011) [SD]-trailer.mp4
+
+Processing: The Pianist (2002)
+Skipping, There's already a trailer file here: The Pianist (2002) [SD]-trailer.mkv
+
+Processing: The Wizard of Oz (1939)
+Skipping, There's already a trailer file here: The Wizard of Oz (1939) [1080p]-trailer.mp4
+
+Processing: Captain Fantastic (2016)
+Skipping, There's already a trailer file here: Captain Fantastic (2016) [720p]-trailer.mp4
+
+Processing: Castaway on the Moon (2009)
+Skipping, There's already a trailer file here: Castaway on the Moon (2009) [SD]-trailer.mp4
+
+Processing: Children of Paradise (1945)
+Skipping, There's already a trailer file here: Children of Paradise (1945) [720p]-trailer.mkv
+
+Processing: City of Men (2007)
+Skipping, There's already a trailer file here: City of Men (2007) [SD]-trailer.mkv
+
+Processing: Close to Eden (1991)
+Skipping, There's already a trailer file here: Close to Eden (1991) [SD] part 2-trailer.mkv
+
+Processing: Contact (1997)
+Skipping, There's already a trailer file here: Contact (1997) [720p]-trailer.webm
+
+Processing: Cowspiracy The Sustainability Secret (2014)
+Skipping, There's already a trailer file here: Cowspiracy The Sustainability Secret (2014) [720p]-trailer.mkv
+
+Processing: Dead Man (1995)
+Skipping, There's already a trailer file here: Dead Man (1995) [SD]-trailer.mp4
+
+Processing: Departures (2008)
+Skipping, There's already a trailer file here: Departures (2008) [576p]-trailer.mkv
+
+Processing: Divergent (2014)
+Skipping, There's already a trailer file here: Divergent (2014) [720p]-trailer.mkv
+
+Processing: Donnie Darko (2001)
+Skipping, There's already a trailer file here: Donnie Darko (2001) [SD]-trailer.mp4
+
+Processing: Down by Law (1986)
+Skipping, There's already a trailer file here: Down by Law (1986) [SD]-trailer.mkv
+
+Processing: Earthlings (2005)
+Skipping, There's already a trailer file here: Earthlings (2005) [SD]-trailer.mp4
+
+Processing: Eddie the Eagle (2016)
+Skipping, There's already a trailer file here: Eddie the Eagle (2016) [720p]-trailer.mp4
+
+Processing: Elf (2003)
+Skipping, There's already a trailer file here: Elf (2003) [1080p]-trailer.mp4
+
+Processing: Elizabeth The Golden Age (2007)
+|> Loaded XML from file: Elizabeth The Golden Age (2007) [SD].nfo
+|> Trailer URL found in .nfo file: https://www.youtube.com/watch?v=Q9odp4oR7cQ
+|> Starting Download for "Elizabeth: The Golden Age Official Trailer #1 - Cate Blanchett Movie (2007) HD" (https://www.youtube.com/watch?v=Q9odp4oR7cQ)
+Download   0% │                                                                                                             │   0/100 (0:00:00 / ?) Download   0% │                                                                                                             │   0/100 (0:00:01 / ?) Download   0% │                                                                                                             │   0/100 (0:00:02 / ?) Download   0% │                                                                                                             │   0/100 (0:00:03 / ?) Download   4% │████                                                                                                   │   4/100 (0:00:04 / 0:01:36) Download   8% │████████▏                                                                                              │   8/100 (0:00:05 / 0:00:57) Download  17% │█████████████████▌                                                                                     │  17/100 (0:00:06 / 0:00:29) Download  31% │███████████████████████████████▉                                                                       │  31/100 (0:00:07 / 0:00:15) Download  46% │███████████████████████████████████████████████▍                                                       │  46/100 (0:00:08 / 0:00:09) Download  85% │███████████████████████████████████████████████████████████████████████████████████████▌               │  85/100 (0:00:09 / 0:00:01) Download  89% │███████████████████████████████████████████████████████████████████████████████████████████▋           │  89/100 (0:00:10 / 0:00:01) Download   5% │█████▏                                                                                                 │   5/100 (0:00:11 / 0:03:29) Download  22% │██████████████████████▋                                                                                │  22/100 (0:00:12 / 0:00:42) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:13 / 0:00:00) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:14 / 0:00:00) 
+|> Download finished, here's the output from youtube-dl:
+[youtube] Q9odp4oR7cQ: Downloading webpage
+[youtube] Q9odp4oR7cQ: Downloading video info webpage
+[youtube] Q9odp4oR7cQ: Extracting video information
+[download] Destination: Elizabeth The Golden Age (2007) [SD]-trailer.f135.mp4
+[download]   0.0% of 11.27MiB at 83.76KiB/s ETA 02:18[download]   0.0% of 11.27MiB at 245.12KiB/s ETA 00:47[download]   0.1% of 11.27MiB at 535.66KiB/s ETA 00:21[download]   0.1% of 11.27MiB at  1.05MiB/s ETA 00:10[download]   0.3% of 11.27MiB at 556.43KiB/s ETA 00:20[download]   0.5% of 11.27MiB at 615.38KiB/s ETA 00:18[download]   1.1% of 11.27MiB at 855.43KiB/s ETA 00:13[download]   2.2% of 11.27MiB at  1.21MiB/s ETA 00:09[download]   4.4% of 11.27MiB at  1.18MiB/s ETA 00:09[download]   8.9% of 11.27MiB at  1.29MiB/s ETA 00:07[download]  17.7% of 11.27MiB at  1.42MiB/s ETA 00:06[download]  31.8% of 11.27MiB at  1.51MiB/s ETA 00:05[download]  46.4% of 11.27MiB at  1.62MiB/s ETA 00:03[download]  63.4% of 11.27MiB at  1.66MiB/s ETA 00:02[download]  79.2% of 11.27MiB at  1.68MiB/s ETA 00:01[download]  84.6% of 11.27MiB at  1.68MiB/s ETA 00:01[download]  84.6% of 11.27MiB at 130.96KiB/s ETA 00:13[download]  84.6% of 11.27MiB at 369.81KiB/s ETA 00:04[download]  84.7% of 11.27MiB at 809.26KiB/s ETA 00:02[download]  84.7% of 11.27MiB at  1.55MiB/s ETA 00:01[download]  84.9% of 11.27MiB at 638.03KiB/s ETA 00:02[download]  85.1% of 11.27MiB at 658.49KiB/s ETA 00:02[download]  85.7% of 11.27MiB at 940.79KiB/s ETA 00:01[download]  86.8% of 11.27MiB at  1.14MiB/s ETA 00:01[download]  89.0% of 11.27MiB at  1.12MiB/s ETA 00:01[download]  93.5% of 11.27MiB at  1.09MiB/s ETA 00:00[download] 100.0% of 11.27MiB at  1.10MiB/s ETA 00:00[download] 100% of 11.27MiB in 00:07
+[download] Destination: Elizabeth The Golden Age (2007) [SD]-trailer.f140.m4a
+[download]   0.0% of 2.22MiB at 83.42KiB/s ETA 00:27[download]   0.1% of 2.22MiB at 242.66KiB/s ETA 00:09[download]   0.3% of 2.22MiB at 541.55KiB/s ETA 00:04[download]   0.7% of 2.22MiB at  1.07MiB/s ETA 00:02[download]   1.4% of 2.22MiB at 511.05KiB/s ETA 00:04[download]   2.8% of 2.22MiB at 626.73KiB/s ETA 00:03[download]   5.6% of 2.22MiB at 845.46KiB/s ETA 00:02[download]  11.2% of 2.22MiB at  1.02MiB/s ETA 00:01[download]  22.4% of 2.22MiB at 1010.58KiB/s ETA 00:01[download]  44.9% of 2.22MiB at  1.20MiB/s ETA 00:01[download]  89.9% of 2.22MiB at  1.38MiB/s ETA 00:00[download] 100.0% of 2.22MiB at  1.42MiB/s ETA 00:00[download] 100% of 2.22MiB in 00:01
+[ffmpeg] Merging formats into "Elizabeth The Golden Age (2007) [SD]-trailer.mp4"
+Deleting original file Elizabeth The Golden Age (2007) [SD]-trailer.f135.mp4 (pass -k to keep)
+Deleting original file Elizabeth The Golden Age (2007) [SD]-trailer.f140.m4a (pass -k to keep)
+
+
+Processing: Epic Movie (2007)
+|> Loaded XML from file: Epic Movie (2007) [SD].nfo
+|> No trailer URL found in .nfo file, searching YouTube for: "Epic Movie 2007 trailer" and downloading the first result.
+|> Starting Download for "Epic Movie - Trailer [2007]" (https://www.youtube.com/watch?v=7Ma8sYIhY80)
+Download   0% │                                                                                                             │   0/100 (0:00:00 / ?) Download   0% │                                                                                                             │   0/100 (0:00:01 / ?) Download   0% │                                                                                                             │   0/100 (0:00:02 / ?) Download   2% │██                                                                                                     │   2/100 (0:00:03 / 0:02:27) Download  18% │██████████████████▌                                                                                    │  18/100 (0:00:04 / 0:00:18) Download  37% │██████████████████████████████████████                                                                 │  37/100 (0:00:05 / 0:00:08) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:06 / 0:00:00) Download  13% │█████████████▍                                                                                         │  13/100 (0:00:07 / 0:00:46) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:08 / 0:00:00) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:09 / 0:00:00) 
+|> Download finished, here's the output from youtube-dl:
+[youtube] 7Ma8sYIhY80: Downloading webpage
+[youtube] 7Ma8sYIhY80: Downloading video info webpage
+[youtube] 7Ma8sYIhY80: Extracting video information
+[download] Destination: Epic Movie (2007) [SD]-trailer.f242.webm
+[download]   0.0% of 2.67MiB at 77.15KiB/s ETA 00:35[download]   0.1% of 2.67MiB at 226.12KiB/s ETA 00:12[download]   0.3% of 2.67MiB at 512.52KiB/s ETA 00:05[download]   0.5% of 2.67MiB at  1.02MiB/s ETA 00:02[download]   1.1% of 2.67MiB at 627.14KiB/s ETA 00:04[download]   2.3% of 2.67MiB at 659.63KiB/s ETA 00:04[download]   4.6% of 2.67MiB at 718.54KiB/s ETA 00:03[download]   9.3% of 2.67MiB at 871.34KiB/s ETA 00:02[download]  18.7% of 2.67MiB at 1019.18KiB/s ETA 00:02[download]  37.4% of 2.67MiB at  1.11MiB/s ETA 00:01[download]  74.9% of 2.67MiB at  1.07MiB/s ETA 00:00[download] 100.0% of 2.67MiB at 979.24KiB/s ETA 00:00[download] 100% of 2.67MiB in 00:03
+[download] Destination: Epic Movie (2007) [SD]-trailer.f251.webm
+[download]   0.1% of 1.89MiB at 240.93KiB/s ETA 00:08[download]   0.2% of 1.89MiB at 681.52KiB/s ETA 00:02[download]   0.4% of 1.89MiB at  1.42MiB/s ETA 00:01[download]   0.8% of 1.89MiB at  2.65MiB/s ETA 00:00[download]   1.6% of 1.89MiB at 561.88KiB/s ETA 00:03[download]   3.3% of 1.89MiB at 456.32KiB/s ETA 00:04[download]   6.6% of 1.89MiB at 583.61KiB/s ETA 00:03[download]  13.2% of 1.89MiB at 836.24KiB/s ETA 00:02[download]  26.4% of 1.89MiB at 923.27KiB/s ETA 00:01[download]  52.9% of 1.89MiB at  1.08MiB/s ETA 00:00[download] 100.0% of 1.89MiB at  1.21MiB/s ETA 00:00[download] 100% of 1.89MiB in 00:02
+[ffmpeg] Merging formats into "Epic Movie (2007) [SD]-trailer.webm"
+Deleting original file Epic Movie (2007) [SD]-trailer.f242.webm (pass -k to keep)
+Deleting original file Epic Movie (2007) [SD]-trailer.f251.webm (pass -k to keep)
+
+
+Processing: Ernest & Celestine (2012)
+|> Loaded XML from file: Ernest & Celestine (2012) [720p].nfo
+|> Trailer URL found in .nfo file: http://www.youtube.com/watch?v=UJ1rmOYLr2U
+|> Starting Download for "Ernest & Celestine - Trailer" (http://www.youtube.com/watch?v=UJ1rmOYLr2U)
+Download   0% │                                                                                                             │   0/100 (0:00:00 / ?) Download   0% │                                                                                                             │   0/100 (0:00:01 / ?) Download   0% │                                                                                                             │   0/100 (0:00:02 / ?) Download   0% │                                                                                                             │   0/100 (0:00:03 / ?) Download   1% │█                                                                                                      │   1/100 (0:00:04 / 0:06:37) Download   3% │███                                                                                                    │   3/100 (0:00:05 / 0:02:42) Download   7% │███████▏                                                                                               │   7/100 (0:00:06 / 0:01:19) Download  12% │████████████▎                                                                                          │  12/100 (0:00:07 / 0:00:51) Download  17% │█████████████████▌                                                                                     │  17/100 (0:00:08 / 0:00:39) Download  22% │██████████████████████▋                                                                                │  22/100 (0:00:09 / 0:00:31) Download  27% │███████████████████████████▊                                                                           │  27/100 (0:00:10 / 0:00:27) Download  38% │███████████████████████████████████████▏                                                               │  38/100 (0:00:11 / 0:00:17) Download  39% │████████████████████████████████████████▏                                                              │  39/100 (0:00:12 / 0:00:18) Download  41% │██████████████████████████████████████████▏                                                            │  41/100 (0:00:13 / 0:00:18) Download  45% │██████████████████████████████████████████████▎                                                        │  45/100 (0:00:14 / 0:00:17) Download  49% │██████████████████████████████████████████████████▍                                                    │  49/100 (0:00:15 / 0:00:15) Download  53% │██████████████████████████████████████████████████████▌                                                │  53/100 (0:00:16 / 0:00:14) Download  58% │███████████████████████████████████████████████████████████▋                                           │  58/100 (0:00:17 / 0:00:12) Download  74% │████████████████████████████████████████████████████████████████████████████▏                          │  74/100 (0:00:18 / 0:00:06) Download  78% │████████████████████████████████████████████████████████████████████████████████▎                      │  78/100 (0:00:19 / 0:00:05) Download  78% │████████████████████████████████████████████████████████████████████████████████▎                      │  78/100 (0:00:20 / 0:00:05) Download  82% │████████████████████████████████████████████████████████████████████████████████████▍                  │  82/100 (0:00:21 / 0:00:04) Download  88% │██████████████████████████████████████████████████████████████████████████████████████████▋            │  88/100 (0:00:22 / 0:00:03) Download   3% │███                                                                                                    │   3/100 (0:00:23 / 0:12:24) Download  27% │███████████████████████████▊                                                                           │  27/100 (0:00:24 / 0:01:04) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:25 / 0:00:00) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:26 / 0:00:00) 
+|> Download finished, here's the output from youtube-dl:
+[youtube] UJ1rmOYLr2U: Downloading webpage
+[youtube] UJ1rmOYLr2U: Downloading video info webpage
+[youtube] UJ1rmOYLr2U: Extracting video information
+[download] Destination: Ernest & Celestine (2012) [720p]-trailer.f137.mp4
+[download]   0.0% of 26.42MiB at 212.35KiB/s ETA 02:08[download]   0.0% of 26.42MiB at 597.85KiB/s ETA 00:45[download]   0.0% of 26.42MiB at  1.27MiB/s ETA 00:20[download]   0.1% of 26.42MiB at  2.44MiB/s ETA 00:10[download]   0.1% of 26.42MiB at 582.97KiB/s ETA 00:46[download]   0.2% of 26.42MiB at 562.67KiB/s ETA 00:47[download]   0.5% of 26.42MiB at 753.23KiB/s ETA 00:35[download]   0.9% of 26.42MiB at 911.65KiB/s ETA 00:29[download]   1.9% of 26.42MiB at 1021.05KiB/s ETA 00:25[download]   3.8% of 26.42MiB at  1.03MiB/s ETA 00:24[download]   7.6% of 26.42MiB at  1.12MiB/s ETA 00:21[download]  12.2% of 26.42MiB at  1.21MiB/s ETA 00:19[download]  17.4% of 26.42MiB at  1.23MiB/s ETA 00:17[download]  22.3% of 26.42MiB at  1.24MiB/s ETA 00:16[download]  27.2% of 26.42MiB at  1.25MiB/s ETA 00:15[download]  32.1% of 26.42MiB at  1.26MiB/s ETA 00:14[download]  37.0% of 26.42MiB at  1.26MiB/s ETA 00:13[download]  37.5% of 26.42MiB at  1.26MiB/s ETA 00:13[download]  37.5% of 26.42MiB at 131.73KiB/s ETA 02:09[download]  37.5% of 26.42MiB at 376.13KiB/s ETA 00:45[download]  37.6% of 26.42MiB at 818.97KiB/s ETA 00:20[download]  37.6% of 26.42MiB at  1.57MiB/s ETA 00:10[download]  37.6% of 26.42MiB at 574.60KiB/s ETA 00:29[download]  37.8% of 26.42MiB at 668.92KiB/s ETA 00:25[download]  38.0% of 26.42MiB at 801.27KiB/s ETA 00:20[download]  38.5% of 26.42MiB at  1.05MiB/s ETA 00:15[download]  39.4% of 26.42MiB at  1.21MiB/s ETA 00:13[download]  41.3% of 26.42MiB at  1.17MiB/s ETA 00:13[download]  45.1% of 26.42MiB at  1.18MiB/s ETA 00:12[download]  49.6% of 26.42MiB at  1.13MiB/s ETA 00:11[download]  53.6% of 26.42MiB at  1.18MiB/s ETA 00:10[download]  58.7% of 26.42MiB at  1.26MiB/s ETA 00:08[download]  64.8% of 26.42MiB at  1.32MiB/s ETA 00:07[download]  70.7% of 26.42MiB at  1.36MiB/s ETA 00:05[download]  74.4% of 26.42MiB at  1.40MiB/s ETA 00:04[download]  74.4% of 26.42MiB at 76.85KiB/s ETA 01:30[download]  74.4% of 26.42MiB at 223.87KiB/s ETA 00:30[download]  74.4% of 26.42MiB at 470.73KiB/s ETA 00:14[download]  74.4% of 26.42MiB at 956.54KiB/s ETA 00:07[download]  74.5% of 26.42MiB at 515.16KiB/s ETA 00:13[download]  74.6% of 26.42MiB at 577.88KiB/s ETA 00:11[download]  74.9% of 26.42MiB at 818.58KiB/s ETA 00:08[download]  75.3% of 26.42MiB at  1.19MiB/s ETA 00:05[download]  76.3% of 26.42MiB at  1.65MiB/s ETA 00:03[download]  78.2% of 26.42MiB at  1.77MiB/s ETA 00:03[download]  82.0% of 26.42MiB at  1.78MiB/s ETA 00:02[download]  88.7% of 26.42MiB at  1.67MiB/s ETA 00:01[download]  94.6% of 26.42MiB at  1.58MiB/s ETA 00:00[download]  99.9% of 26.42MiB at  1.46MiB/s ETA 00:00[download] 100.0% of 26.42MiB at  1.46MiB/s ETA 00:00[download] 100% of 26.42MiB in 00:20
+[download] Destination: Ernest & Celestine (2012) [720p]-trailer.f140.m4a
+[download]   0.1% of 1.82MiB at 59.69KiB/s ETA 00:31[download]   0.2% of 1.82MiB at 175.76KiB/s ETA 00:10[download]   0.4% of 1.82MiB at 401.13KiB/s ETA 00:04[download]   0.8% of 1.82MiB at 827.55KiB/s ETA 00:02[download]   1.7% of 1.82MiB at 421.40KiB/s ETA 00:04[download]   3.4% of 1.82MiB at 399.23KiB/s ETA 00:04[download]   6.8% of 1.82MiB at 724.40KiB/s ETA 00:02[download]  13.7% of 1.82MiB at 921.97KiB/s ETA 00:01[download]  27.4% of 1.82MiB at 1021.73KiB/s ETA 00:01[download]  54.9% of 1.82MiB at  1.05MiB/s ETA 00:00[download] 100.0% of 1.82MiB at  1.10MiB/s ETA 00:00[download] 100% of 1.82MiB in 00:01
+[ffmpeg] Merging formats into "Ernest & Celestine (2012) [720p]-trailer.mp4"
+Deleting original file Ernest & Celestine (2012) [720p]-trailer.f137.mp4 (pass -k to keep)
+Deleting original file Ernest & Celestine (2012) [720p]-trailer.f140.m4a (pass -k to keep)
+
+
+Processing: Everest (2015)
+|> Loaded XML from file: Everest (2015) [SD].nfo
+|> Trailer URL found in .nfo file: http://www.youtube.com/watch?v=IRVJwH3hBd0
+|> Starting Download for "Everest | International Trailer | Jake Gyllenhaal, Josh Brolin and Jason Clarke" (http://www.youtube.com/watch?v=IRVJwH3hBd0)
+Download   0% │                                                                                                             │   0/100 (0:00:00 / ?) Download   0% │                                                                                                             │   0/100 (0:00:01 / ?) Download   0% │                                                                                                             │   0/100 (0:00:02 / ?) Download   0% │                                                                                                             │   0/100 (0:00:03 / ?) Download   0% │                                                                                                             │   0/100 (0:00:04 / ?) Download   2% │██                                                                                                     │   2/100 (0:00:05 / 0:04:05) Download   4% │████                                                                                                   │   4/100 (0:00:06 / 0:02:24) Download   4% │████                                                                                                   │   4/100 (0:00:07 / 0:02:48) Download   7% │███████▏                                                                                               │   7/100 (0:00:08 / 0:01:46) Download  10% │██████████▎                                                                                            │  10/100 (0:00:09 / 0:01:21) Download  12% │████████████▎                                                                                          │  12/100 (0:00:10 / 0:01:13) Download  15% │███████████████▍                                                                                       │  15/100 (0:00:11 / 0:01:02) Download  20% │████████████████████▌                                                                                  │  20/100 (0:00:12 / 0:00:48) Download  22% │██████████████████████▋                                                                                │  22/100 (0:00:13 / 0:00:46) Download  24% │████████████████████████▋                                                                              │  24/100 (0:00:14 / 0:00:44) Download  24% │████████████████████████▋                                                                              │  24/100 (0:00:15 / 0:00:47) Download  26% │██████████████████████████▊                                                                            │  26/100 (0:00:16 / 0:00:45) Download  32% │████████████████████████████████▉                                                                      │  32/100 (0:00:17 / 0:00:36) Download  32% │████████████████████████████████▉                                                                      │  32/100 (0:00:18 / 0:00:38) Download  35% │████████████████████████████████████                                                                   │  35/100 (0:00:19 / 0:00:35) Download  43% │████████████████████████████████████████████▎                                                          │  43/100 (0:00:20 / 0:00:26) Download  45% │██████████████████████████████████████████████▎                                                        │  45/100 (0:00:21 / 0:00:25) Download  45% │██████████████████████████████████████████████▎                                                        │  45/100 (0:00:22 / 0:00:26) Download  46% │███████████████████████████████████████████████▍                                                       │  46/100 (0:00:23 / 0:00:27) Download  49% │██████████████████████████████████████████████████▍                                                    │  49/100 (0:00:24 / 0:00:24) Download  52% │█████████████████████████████████████████████████████▌                                                 │  52/100 (0:00:25 / 0:00:23) Download  54% │███████████████████████████████████████████████████████▌                                               │  54/100 (0:00:26 / 0:00:22) Download  56% │█████████████████████████████████████████████████████████▋                                             │  56/100 (0:00:27 / 0:00:21) Download  60% │█████████████████████████████████████████████████████████████▊                                         │  60/100 (0:00:28 / 0:00:18) Download  65% │██████████████████████████████████████████████████████████████████▉                                    │  65/100 (0:00:29 / 0:00:15) Download  67% │█████████████████████████████████████████████████████████████████████                                  │  67/100 (0:00:30 / 0:00:14) Download  67% │█████████████████████████████████████████████████████████████████████                                  │  67/100 (0:00:31 / 0:00:15) Download  69% │███████████████████████████████████████████████████████████████████████                                │  69/100 (0:00:32 / 0:00:14) Download  71% │█████████████████████████████████████████████████████████████████████████▏                             │  71/100 (0:00:33 / 0:00:13) Download  73% │███████████████████████████████████████████████████████████████████████████▏                           │  73/100 (0:00:34 / 0:00:12) Download  76% │██████████████████████████████████████████████████████████████████████████████▎                        │  76/100 (0:00:35 / 0:00:11) Download  79% │█████████████████████████████████████████████████████████████████████████████████▎                     │  79/100 (0:00:36 / 0:00:09) Download  81% │███████████████████████████████████████████████████████████████████████████████████▍                   │  81/100 (0:00:37 / 0:00:08) Download  87% │█████████████████████████████████████████████████████████████████████████████████████████▌             │  87/100 (0:00:38 / 0:00:05) Download  90% │████████████████████████████████████████████████████████████████████████████████████████████▋          │  90/100 (0:00:39 / 0:00:04) Download  91% │█████████████████████████████████████████████████████████████████████████████████████████████▋         │  91/100 (0:00:40 / 0:00:03) Download  94% │████████████████████████████████████████████████████████████████████████████████████████████████▊      │  94/100 (0:00:41 / 0:00:02) Download   2% │██                                                                                                     │   2/100 (0:00:42 / 0:34:19) Download  21% │█████████████████████▋                                                                                 │  21/100 (0:00:43 / 0:02:41) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:44 / 0:00:00) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:45 / 0:00:00) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:46 / 0:00:00) 
+|> Download finished, here's the output from youtube-dl:
+[youtube] IRVJwH3hBd0: Downloading webpage
+[youtube] IRVJwH3hBd0: Downloading video info webpage
+[youtube] IRVJwH3hBd0: Extracting video information
+[download] Destination: Everest (2015) [SD]-trailer.f137.mp4
+[download]   0.0% of 43.26MiB at 63.04KiB/s ETA 11:45[download]   0.0% of 43.26MiB at 184.17KiB/s ETA 04:00[download]   0.0% of 43.26MiB at 416.52KiB/s ETA 01:46[download]   0.0% of 43.26MiB at 848.99KiB/s ETA 00:52[download]   0.1% of 43.26MiB at 615.60KiB/s ETA 01:11[download]   0.1% of 43.26MiB at 711.56KiB/s ETA 01:02[download]   0.3% of 43.26MiB at 1016.95KiB/s ETA 00:43[download]   0.6% of 43.26MiB at  1.12MiB/s ETA 00:38[download]   1.2% of 43.26MiB at 966.73KiB/s ETA 00:45[download]   2.3% of 43.26MiB at  1.03MiB/s ETA 00:41[download]   4.6% of 43.26MiB at  1.13MiB/s ETA 00:36[download]   7.5% of 43.26MiB at  1.15MiB/s ETA 00:34[download]  10.3% of 43.26MiB at  1.12MiB/s ETA 00:34[download]  12.7% of 43.26MiB at  1.10MiB/s ETA 00:34[download]  15.0% of 43.26MiB at  1.10MiB/s ETA 00:33[download]  17.5% of 43.26MiB at  1.10MiB/s ETA 00:32[download]  20.1% of 43.26MiB at  1.10MiB/s ETA 00:31[download]  22.1% of 43.26MiB at  1.11MiB/s ETA 00:30[download]  22.1% of 43.26MiB at 67.12KiB/s ETA 08:35[download]  22.1% of 43.26MiB at 194.94KiB/s ETA 02:57[download]  22.1% of 43.26MiB at 430.96KiB/s ETA 01:20[download]  22.1% of 43.26MiB at 853.83KiB/s ETA 00:40[download]  22.2% of 43.26MiB at 549.61KiB/s ETA 01:02[download]  22.2% of 43.26MiB at 522.06KiB/s ETA 01:05[download]  22.4% of 43.26MiB at 730.47KiB/s ETA 00:47[download]  22.7% of 43.26MiB at 849.85KiB/s ETA 00:40[download]  23.3% of 43.26MiB at 996.57KiB/s ETA 00:34[download]  24.4% of 43.26MiB at  1.09MiB/s ETA 00:29[download]  26.7% of 43.26MiB at  1.24MiB/s ETA 00:25[download]  30.0% of 43.26MiB at  1.18MiB/s ETA 00:25[download]  32.6% of 43.26MiB at  1.21MiB/s ETA 00:24[download]  35.6% of 43.26MiB at  1.34MiB/s ETA 00:20[download]  40.6% of 43.26MiB at  1.35MiB/s ETA 00:19[download]  43.8% of 43.26MiB at  1.32MiB/s ETA 00:18[download]  44.5% of 43.26MiB at  1.32MiB/s ETA 00:18[download]  44.5% of 43.26MiB at 146.72KiB/s ETA 02:48[download]  44.5% of 43.26MiB at 424.91KiB/s ETA 00:57[download]  44.5% of 43.26MiB at 926.42KiB/s ETA 00:26[download]  44.6% of 43.26MiB at  1.79MiB/s ETA 00:13[download]  44.6% of 43.26MiB at 605.28KiB/s ETA 00:40[download]  44.7% of 43.26MiB at 754.56KiB/s ETA 00:32[download]  44.8% of 43.26MiB at 746.98KiB/s ETA 00:32[download]  45.1% of 43.26MiB at 795.78KiB/s ETA 00:30[download]  45.7% of 43.26MiB at 890.34KiB/s ETA 00:27[download]  46.8% of 43.26MiB at  1.00MiB/s ETA 00:22[download]  49.2% of 43.26MiB at  1.12MiB/s ETA 00:19[download]  52.1% of 43.26MiB at  1.06MiB/s ETA 00:19[download]  54.4% of 43.26MiB at  1.07MiB/s ETA 00:18[download]  56.9% of 43.26MiB at  1.12MiB/s ETA 00:16[download]  60.0% of 43.26MiB at  1.13MiB/s ETA 00:15[download]  62.7% of 43.26MiB at  1.13MiB/s ETA 00:14[download]  65.4% of 43.26MiB at  1.13MiB/s ETA 00:13[download]  66.7% of 43.26MiB at  1.13MiB/s ETA 00:12[download]  66.7% of 43.26MiB at 69.19KiB/s ETA 03:33[download]  66.7% of 43.26MiB at 201.45KiB/s ETA 01:13[download]  66.7% of 43.26MiB at 439.67KiB/s ETA 00:33[download]  66.7% of 43.26MiB at 885.40KiB/s ETA 00:16[download]  66.8% of 43.26MiB at 389.01KiB/s ETA 00:37[download]  66.8% of 43.26MiB at 493.02KiB/s ETA 00:29[download]  67.0% of 43.26MiB at 683.07KiB/s ETA 00:21[download]  67.3% of 43.26MiB at 990.41KiB/s ETA 00:14[download]  67.8% of 43.26MiB at  1.02MiB/s ETA 00:13[download]  69.0% of 43.26MiB at  1.11MiB/s ETA 00:12[download]  71.3% of 43.26MiB at  1.11MiB/s ETA 00:11[download]  73.9% of 43.26MiB at  1.14MiB/s ETA 00:09[download]  76.6% of 43.26MiB at  1.17MiB/s ETA 00:08[download]  79.6% of 43.26MiB at  1.13MiB/s ETA 00:07[download]  81.9% of 43.26MiB at  1.15MiB/s ETA 00:06[download]  84.9% of 43.26MiB at  1.16MiB/s ETA 00:05[download]  87.7% of 43.26MiB at  1.16MiB/s ETA 00:04[download]  89.6% of 43.26MiB at  1.17MiB/s ETA 00:03[download]  89.6% of 43.26MiB at 61.47KiB/s ETA 01:15[download]  89.6% of 43.26MiB at 179.56KiB/s ETA 00:25[download]  89.6% of 43.26MiB at 403.87KiB/s ETA 00:11[download]  89.6% of 43.26MiB at 829.92KiB/s ETA 00:05[download]  89.7% of 43.26MiB at 646.97KiB/s ETA 00:07[download]  89.7% of 43.26MiB at 583.41KiB/s ETA 00:07[download]  89.9% of 43.26MiB at 706.20KiB/s ETA 00:06[download]  90.2% of 43.26MiB at 856.32KiB/s ETA 00:05[download]  90.7% of 43.26MiB at 958.07KiB/s ETA 00:04[download]  91.9% of 43.26MiB at  1.08MiB/s ETA 00:03[download]  94.2% of 43.26MiB at  1.33MiB/s ETA 00:01[download]  98.2% of 43.26MiB at  1.46MiB/s ETA 00:00[download] 100.0% of 43.26MiB at  1.46MiB/s ETA 00:00[download] 100% of 43.26MiB in 00:39
+[download] Destination: Everest (2015) [SD]-trailer.f251.webm
+[download]   0.0% of 2.38MiB at 162.59KiB/s ETA 00:15[download]   0.1% of 2.38MiB at 469.27KiB/s ETA 00:05[download]   0.3% of 2.38MiB at  1.00MiB/s ETA 00:02[download]   0.6% of 2.38MiB at  1.97MiB/s ETA 00:01[download]   1.3% of 2.38MiB at 611.44KiB/s ETA 00:03[download]   2.6% of 2.38MiB at 594.39KiB/s ETA 00:03[download]   5.2% of 2.38MiB at 846.44KiB/s ETA 00:02[download]  10.5% of 2.38MiB at 943.91KiB/s ETA 00:02[download]  21.0% of 2.38MiB at  1.06MiB/s ETA 00:01[download]  42.0% of 2.38MiB at  1.04MiB/s ETA 00:01[download]  84.1% of 2.38MiB at  1.20MiB/s ETA 00:00[download] 100.0% of 2.38MiB at  1.26MiB/s ETA 00:00[download] 100% of 2.38MiB in 00:02
+[ffmpeg] Merging formats into "Everest (2015) [SD]-trailer.mkv"
+Deleting original file Everest (2015) [SD]-trailer.f137.mp4 (pass -k to keep)
+Deleting original file Everest (2015) [SD]-trailer.f251.webm (pass -k to keep)
+
+
+Processing: Fantastic Mr. Fox (2009)
+|> Loaded XML from file: Fantastic Mr. Fox (2009) [720p].nfo
+|> Trailer URL found in .nfo file: http://www.youtube.com/watch?v=n2igjYFojUo
+|> Starting Download for "FANTASTIC MR. FOX - Official Theatrical Trailer" (http://www.youtube.com/watch?v=n2igjYFojUo)
+Download   0% │                                                                                                             │   0/100 (0:00:00 / ?) Download   0% │                                                                                                             │   0/100 (0:00:01 / ?) Download   0% │                                                                                                             │   0/100 (0:00:02 / ?) Download   0% │                                                                                                             │   0/100 (0:00:03 / ?) Download   2% │██                                                                                                     │   2/100 (0:00:04 / 0:03:16) Download   2% │██                                                                                                     │   2/100 (0:00:05 / 0:04:05) Download   5% │█████▏                                                                                                 │   5/100 (0:00:06 / 0:01:54) Download   9% │█████████▎                                                                                             │   9/100 (0:00:07 / 0:01:10) Download  12% │████████████▎                                                                                          │  12/100 (0:00:08 / 0:00:58) Download  15% │███████████████▍                                                                                       │  15/100 (0:00:09 / 0:00:51) Download  18% │██████████████████▌                                                                                    │  18/100 (0:00:10 / 0:00:45) Download  24% │████████████████████████▋                                                                              │  24/100 (0:00:11 / 0:00:34) Download  25% │█████████████████████████▊                                                                             │  25/100 (0:00:12 / 0:00:36) Download  27% │███████████████████████████▊                                                                           │  27/100 (0:00:13 / 0:00:35) Download  29% │█████████████████████████████▊                                                                         │  29/100 (0:00:14 / 0:00:34) Download  32% │████████████████████████████████▉                                                                      │  32/100 (0:00:15 / 0:00:31) Download  36% │█████████████████████████████████████                                                                  │  36/100 (0:00:16 / 0:00:28) Download  41% │██████████████████████████████████████████▏                                                            │  41/100 (0:00:17 / 0:00:24) Download  48% │█████████████████████████████████████████████████▍                                                     │  48/100 (0:00:18 / 0:00:19) Download  49% │██████████████████████████████████████████████████▍                                                    │  49/100 (0:00:19 / 0:00:19) Download  51% │████████████████████████████████████████████████████▌                                                  │  51/100 (0:00:20 / 0:00:19) Download  53% │██████████████████████████████████████████████████████▌                                                │  53/100 (0:00:21 / 0:00:18) Download  56% │█████████████████████████████████████████████████████████▋                                             │  56/100 (0:00:22 / 0:00:17) Download  58% │███████████████████████████████████████████████████████████▋                                           │  58/100 (0:00:23 / 0:00:16) Download  61% │██████████████████████████████████████████████████████████████▊                                        │  61/100 (0:00:24 / 0:00:15) Download  64% │█████████████████████████████████████████████████████████████████▉                                     │  64/100 (0:00:25 / 0:00:14) Download  67% │█████████████████████████████████████████████████████████████████████                                  │  67/100 (0:00:26 / 0:00:12) Download  74% │████████████████████████████████████████████████████████████████████████████▏                          │  74/100 (0:00:27 / 0:00:09) Download  75% │█████████████████████████████████████████████████████████████████████████████▎                         │  75/100 (0:00:28 / 0:00:09) Download  78% │████████████████████████████████████████████████████████████████████████████████▎                      │  78/100 (0:00:29 / 0:00:08) Download  83% │█████████████████████████████████████████████████████████████████████████████████████▍                 │  83/100 (0:00:30 / 0:00:06) Download  83% │█████████████████████████████████████████████████████████████████████████████████████▍                 │  83/100 (0:00:31 / 0:00:06) Download  87% │█████████████████████████████████████████████████████████████████████████████████████████▌             │  87/100 (0:00:32 / 0:00:04) Download  94% │████████████████████████████████████████████████████████████████████████████████████████████████▊      │  94/100 (0:00:33 / 0:00:02) Download  98% │████████████████████████████████████████████████████████████████████████████████████████████████████▉  │  98/100 (0:00:34 / 0:00:00) Download  21% │█████████████████████▋                                                                                 │  21/100 (0:00:35 / 0:02:11) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:36 / 0:00:00) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:37 / 0:00:00) 
+|> Download finished, here's the output from youtube-dl:
+[youtube] n2igjYFojUo: Downloading webpage
+[youtube] n2igjYFojUo: Downloading video info webpage
+[youtube] n2igjYFojUo: Extracting video information
+[download] Destination: Fantastic Mr. Fox (2009) [720p]-trailer.f137.mp4
+[download]   0.0% of 39.41MiB at 37.36KiB/s ETA 18:01[download]   0.0% of 39.41MiB at 110.52KiB/s ETA 06:05[download]   0.0% of 39.41MiB at 253.41KiB/s ETA 02:39[download]   0.0% of 39.41MiB at 518.47KiB/s ETA 01:17[download]   0.1% of 39.41MiB at 543.08KiB/s ETA 01:14[download]   0.2% of 39.41MiB at 686.71KiB/s ETA 00:58[download]   0.3% of 39.41MiB at 894.76KiB/s ETA 00:44[download]   0.6% of 39.41MiB at  1.08MiB/s ETA 00:36[download]   1.3% of 39.41MiB at  1.26MiB/s ETA 00:30[download]   2.5% of 39.41MiB at  1.43MiB/s ETA 00:26[download]   5.1% of 39.41MiB at  1.49MiB/s ETA 00:25[download]   9.0% of 39.41MiB at  1.38MiB/s ETA 00:26[download]  12.2% of 39.41MiB at  1.31MiB/s ETA 00:26[download]  15.1% of 39.41MiB at  1.28MiB/s ETA 00:26[download]  18.1% of 39.41MiB at  1.24MiB/s ETA 00:26[download]  20.8% of 39.41MiB at  1.24MiB/s ETA 00:25[download]  23.9% of 39.41MiB at  1.23MiB/s ETA 00:24[download]  24.4% of 39.41MiB at  1.23MiB/s ETA 00:24[download]  24.4% of 39.41MiB at 85.05KiB/s ETA 06:00[download]  24.5% of 39.41MiB at 245.72KiB/s ETA 02:04[download]  24.5% of 39.41MiB at 545.06KiB/s ETA 00:56[download]  24.5% of 39.41MiB at  1.05MiB/s ETA 00:28[download]  24.5% of 39.41MiB at 546.12KiB/s ETA 00:55[download]  24.6% of 39.41MiB at 692.75KiB/s ETA 00:43[download]  24.8% of 39.41MiB at 943.14KiB/s ETA 00:32[download]  25.1% of 39.41MiB at  1.04MiB/s ETA 00:28[download]  25.7% of 39.41MiB at  1.12MiB/s ETA 00:26[download]  27.0% of 39.41MiB at  1.12MiB/s ETA 00:25[download]  29.5% of 39.41MiB at  1.15MiB/s ETA 00:24[download]  32.5% of 39.41MiB at  1.30MiB/s ETA 00:20[download]  36.8% of 39.41MiB at  1.43MiB/s ETA 00:17[download]  41.2% of 39.41MiB at  1.43MiB/s ETA 00:16[download]  44.8% of 39.41MiB at  1.39MiB/s ETA 00:15[download]  48.0% of 39.41MiB at  1.36MiB/s ETA 00:15[download]  48.6% of 39.41MiB at  1.37MiB/s ETA 00:14[download]  48.6% of 39.41MiB at 84.84KiB/s ETA 04:05[download]  48.6% of 39.41MiB at 248.64KiB/s ETA 01:23[download]  48.6% of 39.41MiB at 552.17KiB/s ETA 00:37[download]  48.6% of 39.41MiB at  1.09MiB/s ETA 00:18[download]  48.7% of 39.41MiB at 520.96KiB/s ETA 00:39[download]  48.7% of 39.41MiB at 504.37KiB/s ETA 00:41[download]  48.9% of 39.41MiB at 671.85KiB/s ETA 00:30[download]  49.2% of 39.41MiB at 850.31KiB/s ETA 00:24[download]  49.8% of 39.41MiB at  1.11MiB/s ETA 00:17[download]  51.1% of 39.41MiB at  1.07MiB/s ETA 00:18[download]  53.7% of 39.41MiB at  1.07MiB/s ETA 00:17[download]  56.4% of 39.41MiB at  1.01MiB/s ETA 00:16[download]  58.7% of 39.41MiB at  1.05MiB/s ETA 00:15[download]  61.8% of 39.41MiB at  1.08MiB/s ETA 00:13[download]  64.8% of 39.41MiB at  1.11MiB/s ETA 00:12[download]  67.9% of 39.41MiB at  1.10MiB/s ETA 00:11[download]  70.7% of 39.41MiB at  1.15MiB/s ETA 00:10[download]  73.4% of 39.41MiB at  1.19MiB/s ETA 00:08[download]  73.4% of 39.41MiB at 61.74KiB/s ETA 02:54[download]  73.4% of 39.41MiB at 180.07KiB/s ETA 00:59[download]  73.4% of 39.41MiB at 397.16KiB/s ETA 00:27[download]  73.4% of 39.41MiB at 801.78KiB/s ETA 00:13[download]  73.5% of 39.41MiB at 467.04KiB/s ETA 00:22[download]  73.5% of 39.41MiB at 607.52KiB/s ETA 00:17[download]  73.7% of 39.41MiB at 868.55KiB/s ETA 00:12[download]  74.0% of 39.41MiB at 927.85KiB/s ETA 00:11[download]  74.6% of 39.41MiB at  1.18MiB/s ETA 00:08[download]  75.9% of 39.41MiB at  1.47MiB/s ETA 00:06[download]  78.4% of 39.41MiB at  1.61MiB/s ETA 00:05[download]  83.0% of 39.41MiB at  1.65MiB/s ETA 00:04[download]  87.3% of 39.41MiB at  1.67MiB/s ETA 00:03[download]  91.6% of 39.41MiB at  1.55MiB/s ETA 00:02[download]  94.8% of 39.41MiB at  1.51MiB/s ETA 00:01[download]  97.6% of 39.41MiB at  1.47MiB/s ETA 00:00[download]  97.6% of 39.41MiB at 21.97KiB/s ETA 00:44[download]  97.6% of 39.41MiB at 65.20KiB/s ETA 00:14[download]  97.6% of 39.41MiB at 150.83KiB/s ETA 00:06[download]  97.6% of 39.41MiB at 317.91KiB/s ETA 00:03[download]  97.7% of 39.41MiB at 317.96KiB/s ETA 00:02[download]  97.7% of 39.41MiB at 459.30KiB/s ETA 00:01[download]  97.9% of 39.41MiB at 624.63KiB/s ETA 00:01[download]  98.2% of 39.41MiB at 852.50KiB/s ETA 00:00[download]  98.8% of 39.41MiB at  1.09MiB/s ETA 00:00[download] 100.0% of 39.41MiB at  1.23MiB/s ETA 00:00[download] 100% of 39.41MiB in 00:31
+[download] Destination: Fantastic Mr. Fox (2009) [720p]-trailer.f140.m4a
+[download]   0.0% of 2.29MiB at 38.96KiB/s ETA 01:00[download]   0.1% of 2.29MiB at 115.54KiB/s ETA 00:20[download]   0.3% of 2.29MiB at 266.01KiB/s ETA 00:08[download]   0.6% of 2.29MiB at 557.48KiB/s ETA 00:04[download]   1.3% of 2.29MiB at 421.34KiB/s ETA 00:05[download]   2.7% of 2.29MiB at 539.65KiB/s ETA 00:04[download]   5.4% of 2.29MiB at 838.04KiB/s ETA 00:02[download]  10.9% of 2.29MiB at 979.47KiB/s ETA 00:02[download]  21.8% of 2.29MiB at  1.20MiB/s ETA 00:01[download]  43.6% of 2.29MiB at  1.84MiB/s ETA 00:00[download]  87.2% of 2.29MiB at  2.10MiB/s ETA 00:00[download] 100.0% of 2.29MiB at  2.15MiB/s ETA 00:00[download] 100% of 2.29MiB in 00:01
+[ffmpeg] Merging formats into "Fantastic Mr. Fox (2009) [720p]-trailer.mp4"
+Deleting original file Fantastic Mr. Fox (2009) [720p]-trailer.f137.mp4 (pass -k to keep)
+Deleting original file Fantastic Mr. Fox (2009) [720p]-trailer.f140.m4a (pass -k to keep)
+
+
+Processing: Fitzcarraldo (1982)
+|> Loaded XML from file: Fitzcarraldo.nfo
+|> Trailer URL found in .nfo file: http://www.youtube.com/watch?v=-pJ76nAkysM
+|> Starting Download for "Fitzcarraldo" (http://www.youtube.com/watch?v=-pJ76nAkysM)
+Download   0% │                                                                                                             │   0/100 (0:00:00 / ?) Download   0% │                                                                                                             │   0/100 (0:00:01 / ?) Download   0% │                                                                                                             │   0/100 (0:00:02 / ?) Download   0% │                                                                                                             │   0/100 (0:00:03 / ?) Download   3% │███                                                                                                    │   3/100 (0:00:04 / 0:02:09) Download   7% │███████▏                                                                                               │   7/100 (0:00:05 / 0:01:06) Download  15% │███████████████▍                                                                                       │  15/100 (0:00:06 / 0:00:34) Download  25% │█████████████████████████▊                                                                             │  25/100 (0:00:07 / 0:00:21) Download  36% │█████████████████████████████████████                                                                  │  36/100 (0:00:08 / 0:00:14) Download  48% │█████████████████████████████████████████████████▍                                                     │  48/100 (0:00:09 / 0:00:09) Download  68% │██████████████████████████████████████████████████████████████████████                                 │  68/100 (0:00:10 / 0:00:04) Download  77% │███████████████████████████████████████████████████████████████████████████████▎                       │  77/100 (0:00:11 / 0:00:03) Download  81% │███████████████████████████████████████████████████████████████████████████████████▍                   │  81/100 (0:00:12 / 0:00:02) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:13 / 0:00:00) Download   9% │█████████▎                                                                                             │   9/100 (0:00:14 / 0:02:21) Download  37% │██████████████████████████████████████                                                                 │  37/100 (0:00:15 / 0:00:25) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:16 / 0:00:00) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:17 / 0:00:00) 
+|> Download finished, here's the output from youtube-dl:
+[youtube] -pJ76nAkysM: Downloading webpage
+[youtube] -pJ76nAkysM: Downloading video info webpage
+[youtube] -pJ76nAkysM: Extracting video information
+[download] Destination: Fitzcarraldo-trailer.f135.mp4
+[download]   0.0% of 13.32MiB at 82.72KiB/s ETA 02:45[download]   0.0% of 13.32MiB at 242.11KiB/s ETA 00:56[download]   0.1% of 13.32MiB at 547.47KiB/s ETA 00:24[download]   0.1% of 13.32MiB at  1.09MiB/s ETA 00:12[download]   0.2% of 13.32MiB at 626.75KiB/s ETA 00:21[download]   0.5% of 13.32MiB at 682.25KiB/s ETA 00:19[download]   0.9% of 13.32MiB at 958.68KiB/s ETA 00:14[download]   1.9% of 13.32MiB at  1.26MiB/s ETA 00:10[download]   3.7% of 13.32MiB at  1.25MiB/s ETA 00:10[download]   7.5% of 13.32MiB at  1.32MiB/s ETA 00:09[download]  15.0% of 13.32MiB at  1.34MiB/s ETA 00:08[download]  25.2% of 13.32MiB at  1.39MiB/s ETA 00:07[download]  36.4% of 13.32MiB at  1.46MiB/s ETA 00:05[download]  48.8% of 13.32MiB at  1.44MiB/s ETA 00:04[download]  59.0% of 13.32MiB at  1.40MiB/s ETA 00:03[download]  68.5% of 13.32MiB at  1.44MiB/s ETA 00:02[download]  73.7% of 13.32MiB at  1.48MiB/s ETA 00:02[download]  73.7% of 13.32MiB at 63.62KiB/s ETA 00:56[download]  73.7% of 13.32MiB at 186.66KiB/s ETA 00:19[download]  73.8% of 13.32MiB at 420.76KiB/s ETA 00:08[download]  73.8% of 13.32MiB at 856.32KiB/s ETA 00:04[download]  73.9% of 13.32MiB at 543.05KiB/s ETA 00:06[download]  74.2% of 13.32MiB at 570.56KiB/s ETA 00:06[download]  74.6% of 13.32MiB at 826.23KiB/s ETA 00:04[download]  75.6% of 13.32MiB at  1.08MiB/s ETA 00:03[download]  77.5% of 13.32MiB at  1.60MiB/s ETA 00:01[download]  81.2% of 13.32MiB at  1.93MiB/s ETA 00:01[download]  88.7% of 13.32MiB at  1.62MiB/s ETA 00:00[download]  99.2% of 13.32MiB at  1.44MiB/s ETA 00:00[download] 100.0% of 13.32MiB at  1.44MiB/s ETA 00:00[download] 100% of 13.32MiB in 00:10
+[download] Destination: Fitzcarraldo-trailer.f140.m4a
+[download]   0.0% of 2.70MiB at 48.26KiB/s ETA 00:57[download]   0.1% of 2.70MiB at 143.07KiB/s ETA 00:19[download]   0.3% of 2.70MiB at 328.22KiB/s ETA 00:08[download]   0.5% of 2.70MiB at 675.66KiB/s ETA 00:04[download]   1.1% of 2.70MiB at 517.32KiB/s ETA 00:05[download]   2.3% of 2.70MiB at 635.91KiB/s ETA 00:04[download]   4.6% of 2.70MiB at 543.33KiB/s ETA 00:04[download]   9.2% of 2.70MiB at 900.65KiB/s ETA 00:02[download]  18.5% of 2.70MiB at 1011.99KiB/s ETA 00:02[download]  37.0% of 2.70MiB at  1.11MiB/s ETA 00:01[download]  74.1% of 2.70MiB at  1.42MiB/s ETA 00:00[download] 100.0% of 2.70MiB at  1.56MiB/s ETA 00:00[download] 100% of 2.70MiB in 00:02
+[ffmpeg] Merging formats into "Fitzcarraldo-trailer.mp4"
+Deleting original file Fitzcarraldo-trailer.f135.mp4 (pass -k to keep)
+Deleting original file Fitzcarraldo-trailer.f140.m4a (pass -k to keep)
+
+
+Processing: Forks Over Knives (2011)
+|> Loaded XML from file: Forks Over Knives (2011) [SD].nfo
+|> No trailer URL found in .nfo file, searching YouTube for: "Forks Over Knives 2011 trailer" and downloading the first result.
+|> Starting Download for "Forks Over Knives - Trailer" (https://www.youtube.com/watch?v=DZb-35oV_7E)
+Download   0% │                                                                                                             │   0/100 (0:00:00 / ?) Download   0% │                                                                                                             │   0/100 (0:00:01 / ?) Download   0% │                                                                                                             │   0/100 (0:00:02 / ?) Download   0% │                                                                                                             │   0/100 (0:00:03 / ?) Download   0% │                                                                                                             │   0/100 (0:00:04 / ?) Download   1% │█                                                                                                      │   1/100 (0:00:05 / 0:08:15) Download   3% │███                                                                                                    │   3/100 (0:00:06 / 0:03:14) Download   5% │█████▏                                                                                                 │   5/100 (0:00:07 / 0:02:13) Download   7% │███████▏                                                                                               │   7/100 (0:00:08 / 0:01:46) Download   9% │█████████▎                                                                                             │   9/100 (0:00:09 / 0:01:31) Download  12% │████████████▎                                                                                          │  12/100 (0:00:10 / 0:01:13) Download  15% │███████████████▍                                                                                       │  15/100 (0:00:11 / 0:01:02) Download  17% │█████████████████▌                                                                                     │  17/100 (0:00:12 / 0:00:58) Download  18% │██████████████████▌                                                                                    │  18/100 (0:00:13 / 0:00:59) Download  20% │████████████████████▌                                                                                  │  20/100 (0:00:14 / 0:00:56) Download  22% │██████████████████████▋                                                                                │  22/100 (0:00:15 / 0:00:53) Download  23% │███████████████████████▋                                                                               │  23/100 (0:00:16 / 0:00:53) Download  25% │█████████████████████████▊                                                                             │  25/100 (0:00:17 / 0:00:51) Download  27% │███████████████████████████▊                                                                           │  27/100 (0:00:18 / 0:00:48) Download  29% │█████████████████████████████▊                                                                         │  29/100 (0:00:19 / 0:00:46) Download  31% │███████████████████████████████▉                                                                       │  31/100 (0:00:20 / 0:00:44) Download  33% │█████████████████████████████████▉                                                                     │  33/100 (0:00:21 / 0:00:42) Download  34% │███████████████████████████████████                                                                    │  34/100 (0:00:22 / 0:00:42) Download  35% │████████████████████████████████████                                                                   │  35/100 (0:00:23 / 0:00:42) Download  37% │██████████████████████████████████████                                                                 │  37/100 (0:00:24 / 0:00:40) Download  39% │████████████████████████████████████████▏                                                              │  39/100 (0:00:25 / 0:00:39) Download  42% │███████████████████████████████████████████▎                                                           │  42/100 (0:00:26 / 0:00:35) Download  49% │██████████████████████████████████████████████████▍                                                    │  49/100 (0:00:27 / 0:00:28) Download  51% │████████████████████████████████████████████████████▌                                                  │  51/100 (0:00:28 / 0:00:26) Download  51% │████████████████████████████████████████████████████▌                                                  │  51/100 (0:00:29 / 0:00:27) Download  52% │█████████████████████████████████████████████████████▌                                                 │  52/100 (0:00:30 / 0:00:27) Download  55% │████████████████████████████████████████████████████████▋                                              │  55/100 (0:00:31 / 0:00:25) Download  57% │██████████████████████████████████████████████████████████▋                                            │  57/100 (0:00:32 / 0:00:24) Download  59% │████████████████████████████████████████████████████████████▊                                          │  59/100 (0:00:33 / 0:00:22) Download  65% │██████████████████████████████████████████████████████████████████▉                                    │  65/100 (0:00:34 / 0:00:18) Download  67% │█████████████████████████████████████████████████████████████████████                                  │  67/100 (0:00:35 / 0:00:17) Download  68% │██████████████████████████████████████████████████████████████████████                                 │  68/100 (0:00:36 / 0:00:16) Download  70% │████████████████████████████████████████████████████████████████████████                               │  70/100 (0:00:37 / 0:00:15) Download  72% │██████████████████████████████████████████████████████████████████████████▏                            │  72/100 (0:00:38 / 0:00:14) Download  75% │█████████████████████████████████████████████████████████████████████████████▎                         │  75/100 (0:00:39 / 0:00:13) Download  75% │█████████████████████████████████████████████████████████████████████████████▎                         │  75/100 (0:00:40 / 0:00:13) Download  78% │████████████████████████████████████████████████████████████████████████████████▎                      │  78/100 (0:00:41 / 0:00:11) Download  84% │██████████████████████████████████████████████████████████████████████████████████████▌                │  84/100 (0:00:42 / 0:00:08) Download  85% │███████████████████████████████████████████████████████████████████████████████████████▌               │  85/100 (0:00:43 / 0:00:07) Download  87% │█████████████████████████████████████████████████████████████████████████████████████████▌             │  87/100 (0:00:44 / 0:00:06) Download  90% │████████████████████████████████████████████████████████████████████████████████████████████▋          │  90/100 (0:00:45 / 0:00:05) Download  94% │████████████████████████████████████████████████████████████████████████████████████████████████▊      │  94/100 (0:00:46 / 0:00:02) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:47 / 0:00:00) Download  25% │█████████████████████████▊                                                                             │  25/100 (0:00:48 / 0:02:24) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:49 / 0:00:00) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:50 / 0:00:00) 
+|> Download finished, here's the output from youtube-dl:
+[youtube] DZb-35oV_7E: Downloading webpage
+[youtube] DZb-35oV_7E: Downloading video info webpage
+[youtube] DZb-35oV_7E: Extracting video information
+[download] Destination: Forks Over Knives (2011) [SD]-trailer.f137.mp4
+[download]   0.0% of 58.72MiB at 42.46KiB/s ETA 23:39[download]   0.0% of 58.72MiB at 125.77KiB/s ETA 07:58[download]   0.0% of 58.72MiB at 288.95KiB/s ETA 03:28[download]   0.0% of 58.72MiB at 603.14KiB/s ETA 01:39[download]   0.1% of 58.72MiB at 519.58KiB/s ETA 01:55[download]   0.1% of 58.72MiB at 563.69KiB/s ETA 01:46[download]   0.2% of 58.72MiB at 754.07KiB/s ETA 01:19[download]   0.4% of 58.72MiB at 954.12KiB/s ETA 01:02[download]   0.8% of 58.72MiB at  1.11MiB/s ETA 00:52[download]   1.7% of 58.72MiB at  1.18MiB/s ETA 00:48[download]   3.4% of 58.72MiB at  1.18MiB/s ETA 00:48[download]   5.4% of 58.72MiB at  1.21MiB/s ETA 00:46[download]   7.6% of 58.72MiB at  1.26MiB/s ETA 00:43[download]   9.9% of 58.72MiB at  1.25MiB/s ETA 00:42[download]  12.1% of 58.72MiB at  1.22MiB/s ETA 00:42[download]  13.9% of 58.72MiB at  1.22MiB/s ETA 00:41[download]  15.9% of 58.72MiB at  1.24MiB/s ETA 00:39[download]  16.9% of 58.72MiB at  1.26MiB/s ETA 00:38[download]  16.9% of 58.72MiB at 50.94KiB/s ETA 16:23[download]  16.9% of 58.72MiB at 149.61KiB/s ETA 05:34[download]  16.9% of 58.72MiB at 336.42KiB/s ETA 02:28[download]  16.9% of 58.72MiB at 695.59KiB/s ETA 01:11[download]  17.0% of 58.72MiB at 545.57KiB/s ETA 01:31[download]  17.0% of 58.72MiB at 750.55KiB/s ETA 01:06[download]  17.1% of 58.72MiB at 963.63KiB/s ETA 00:51[download]  17.3% of 58.72MiB at  1.36MiB/s ETA 00:35[download]  17.8% of 58.72MiB at  1.59MiB/s ETA 00:30[download]  18.6% of 58.72MiB at  1.24MiB/s ETA 00:38[download]  20.3% of 58.72MiB at  1.11MiB/s ETA 00:42[download]  22.0% of 58.72MiB at  1.10MiB/s ETA 00:41[download]  23.8% of 58.72MiB at  1.08MiB/s ETA 00:41[download]  25.6% of 58.72MiB at  1.08MiB/s ETA 00:40[download]  27.4% of 58.72MiB at  1.07MiB/s ETA 00:39[download]  29.2% of 58.72MiB at  1.08MiB/s ETA 00:38[download]  31.2% of 58.72MiB at  1.08MiB/s ETA 00:37[download]  33.0% of 58.72MiB at  1.08MiB/s ETA 00:36[download]  33.8% of 58.72MiB at  1.08MiB/s ETA 00:35[download]  33.8% of 58.72MiB at 49.81KiB/s ETA 13:21[download]  33.8% of 58.72MiB at 146.50KiB/s ETA 04:32[download]  33.8% of 58.72MiB at 329.88KiB/s ETA 02:00[download]  33.8% of 58.72MiB at 681.75KiB/s ETA 00:58[download]  33.8% of 58.72MiB at 613.74KiB/s ETA 01:04[download]  33.9% of 58.72MiB at 760.93KiB/s ETA 00:52[download]  34.0% of 58.72MiB at 945.48KiB/s ETA 00:41[download]  34.2% of 58.72MiB at  1.09MiB/s ETA 00:35[download]  34.6% of 58.72MiB at  1.09MiB/s ETA 00:35[download]  35.5% of 58.72MiB at  1.16MiB/s ETA 00:32[download]  37.2% of 58.72MiB at  1.23MiB/s ETA 00:30[download]  39.4% of 58.72MiB at  1.42MiB/s ETA 00:25[download]  42.6% of 58.72MiB at  1.55MiB/s ETA 00:21[download]  45.7% of 58.72MiB at  1.65MiB/s ETA 00:19[download]  49.2% of 58.72MiB at  1.72MiB/s ETA 00:17[download]  50.8% of 58.72MiB at  1.73MiB/s ETA 00:16[download]  50.8% of 58.72MiB at 54.86KiB/s ETA 09:00[download]  50.8% of 58.72MiB at 161.16KiB/s ETA 03:03[download]  50.8% of 58.72MiB at 365.35KiB/s ETA 01:21[download]  50.8% of 58.72MiB at 738.38KiB/s ETA 00:40[download]  50.8% of 58.72MiB at 565.02KiB/s ETA 00:52[download]  50.9% of 58.72MiB at 650.41KiB/s ETA 00:45[download]  51.0% of 58.72MiB at 942.40KiB/s ETA 00:31[download]  51.2% of 58.72MiB at  1.08MiB/s ETA 00:26[download]  51.6% of 58.72MiB at  1.21MiB/s ETA 00:23[download]  52.5% of 58.72MiB at  1.13MiB/s ETA 00:24[download]  54.2% of 58.72MiB at  1.03MiB/s ETA 00:26[download]  55.8% of 58.72MiB at  1.02MiB/s ETA 00:25[download]  57.5% of 58.72MiB at  1.06MiB/s ETA 00:23[download]  59.5% of 58.72MiB at  1.15MiB/s ETA 00:20[download]  62.2% of 58.72MiB at  1.28MiB/s ETA 00:17[download]  65.8% of 58.72MiB at  1.41MiB/s ETA 00:14[download]  67.0% of 58.72MiB at  1.44MiB/s ETA 00:13[download]  67.0% of 58.72MiB at 42.06KiB/s ETA 07:52[download]  67.0% of 58.72MiB at 124.19KiB/s ETA 02:39[download]  67.0% of 58.72MiB at 277.98KiB/s ETA 01:11[download]  67.0% of 58.72MiB at 577.51KiB/s ETA 00:34[download]  67.1% of 58.72MiB at 550.83KiB/s ETA 00:35[download]  67.1% of 58.72MiB at 646.29KiB/s ETA 00:30[download]  67.2% of 58.72MiB at 777.43KiB/s ETA 00:25[download]  67.4% of 58.72MiB at 957.64KiB/s ETA 00:20[download]  67.9% of 58.72MiB at  1.15MiB/s ETA 00:16[download]  68.7% of 58.72MiB at  1.43MiB/s ETA 00:12[download]  70.4% of 58.72MiB at  1.42MiB/s ETA 00:12[download]  72.8% of 58.72MiB at  1.52MiB/s ETA 00:10[download]  75.7% of 58.72MiB at  1.56MiB/s ETA 00:09[download]  78.5% of 58.72MiB at  1.62MiB/s ETA 00:07[download]  81.6% of 58.72MiB at  1.47MiB/s ETA 00:07[download]  83.5% of 58.72MiB at  1.43MiB/s ETA 00:06[download]  83.7% of 58.72MiB at  1.44MiB/s ETA 00:06[download]  83.7% of 58.72MiB at 63.13KiB/s ETA 02:35[download]  83.7% of 58.72MiB at 183.44KiB/s ETA 00:53[download]  83.8% of 58.72MiB at 415.18KiB/s ETA 00:23[download]  83.8% of 58.72MiB at 852.25KiB/s ETA 00:11[download]  83.8% of 58.72MiB at 625.62KiB/s ETA 00:15[download]  83.8% of 58.72MiB at 671.19KiB/s ETA 00:14[download]  84.0% of 58.72MiB at 911.44KiB/s ETA 00:10[download]  84.2% of 58.72MiB at  1.27MiB/s ETA 00:07[download]  84.6% of 58.72MiB at  1.58MiB/s ETA 00:05[download]  85.4% of 58.72MiB at  1.46MiB/s ETA 00:05[download]  87.1% of 58.72MiB at  1.86MiB/s ETA 00:04[download]  90.6% of 58.72MiB at  2.01MiB/s ETA 00:02[download]  94.3% of 58.72MiB at  2.05MiB/s ETA 00:01[download]  97.9% of 58.72MiB at  1.97MiB/s ETA 00:00[download] 100.0% of 58.72MiB at  1.92MiB/s ETA 00:00[download] 100% of 58.72MiB in 00:44
+[download] Destination: Forks Over Knives (2011) [SD]-trailer.f140.m4a
+[download]   0.0% of 1.98MiB at 209.60KiB/s ETA 00:09[download]   0.1% of 1.98MiB at 595.89KiB/s ETA 00:03[download]   0.3% of 1.98MiB at  1.26MiB/s ETA 00:01[download]   0.7% of 1.98MiB at  2.41MiB/s ETA 00:00[download]   1.5% of 1.98MiB at 755.97KiB/s ETA 00:02[download]   3.1% of 1.98MiB at 544.98KiB/s ETA 00:03[download]   6.3% of 1.98MiB at 843.75KiB/s ETA 00:02[download]  12.6% of 1.98MiB at  1.05MiB/s ETA 00:01[download]  25.2% of 1.98MiB at  1.13MiB/s ETA 00:01[download]  50.4% of 1.98MiB at  1.24MiB/s ETA 00:00[download] 100.0% of 1.98MiB at  1.42MiB/s ETA 00:00[download] 100% of 1.98MiB in 00:01
+[ffmpeg] Merging formats into "Forks Over Knives (2011) [SD]-trailer.mp4"
+Deleting original file Forks Over Knives (2011) [SD]-trailer.f137.mp4 (pass -k to keep)
+Deleting original file Forks Over Knives (2011) [SD]-trailer.f140.m4a (pass -k to keep)
+
+
+Processing: Gandhi (1982)
+|> Loaded XML from file: Gandhi (1982) [1080p].nfo
+|> Trailer URL found in .nfo file: http://www.youtube.com/watch?v=4pENM42-QB8
+|> Starting Download for "Gandhi - Trailer (1982)" (http://www.youtube.com/watch?v=4pENM42-QB8)
+Download   0% │                                                                                                             │   0/100 (0:00:00 / ?) Download   0% │                                                                                                             │   0/100 (0:00:01 / ?) Download   0% │                                                                                                             │   0/100 (0:00:02 / ?) Download   1% │█                                                                                                      │   1/100 (0:00:03 / 0:04:57) Download   6% │██████▏                                                                                                │   6/100 (0:00:04 / 0:01:02) Download   6% │██████▏                                                                                                │   6/100 (0:00:05 / 0:01:18) Download  22% │██████████████████████▋                                                                                │  22/100 (0:00:06 / 0:00:21) Download  22% │██████████████████████▋                                                                                │  22/100 (0:00:07 / 0:00:24) Download  30% │██████████████████████████████▉                                                                        │  30/100 (0:00:08 / 0:00:18) Download  42% │███████████████████████████████████████████▎                                                           │  42/100 (0:00:09 / 0:00:12) Download  56% │█████████████████████████████████████████████████████████▋                                             │  56/100 (0:00:10 / 0:00:07) Download  68% │██████████████████████████████████████████████████████████████████████                                 │  68/100 (0:00:11 / 0:00:05) Download  71% │█████████████████████████████████████████████████████████████████████████▏                             │  71/100 (0:00:12 / 0:00:04) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:13 / 0:00:00) Download   4% │████                                                                                                   │   4/100 (0:00:14 / 0:05:36) Download  19% │███████████████████▌                                                                                   │  19/100 (0:00:15 / 0:01:03) Download  38% │███████████████████████████████████████▏                                                               │  38/100 (0:00:16 / 0:00:26) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:17 / 0:00:00) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:18 / 0:00:00) Download 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████│ 100/100 (0:00:19 / 0:00:00) 
+|> Download finished, here's the output from youtube-dl:
+[youtube] 4pENM42-QB8: Downloading webpage
+[youtube] 4pENM42-QB8: Downloading video info webpage
+[youtube] 4pENM42-QB8: Extracting video information
+[download] Destination: Gandhi (1982) [1080p]-trailer.f135.mp4
+[download]   0.0% of 15.29MiB at 158.10KiB/s ETA 01:39[download]   0.0% of 15.29MiB at 448.83KiB/s ETA 00:34[download]   0.0% of 15.29MiB at 987.36KiB/s ETA 00:15[download]   0.1% of 15.29MiB at  1.83MiB/s ETA 00:08[download]   0.2% of 15.29MiB at 534.85KiB/s ETA 00:29[download]   0.4% of 15.29MiB at 727.99KiB/s ETA 00:21[download]   0.8% of 15.29MiB at 918.93KiB/s ETA 00:16[download]   1.6% of 15.29MiB at  1.10MiB/s ETA 00:13[download]   3.3% of 15.29MiB at  1.35MiB/s ETA 00:10[download]   6.5% of 15.29MiB at  1.32MiB/s ETA 00:10[download]  13.1% of 15.29MiB at  1.40MiB/s ETA 00:09[download]  22.9% of 15.29MiB at  1.31MiB/s ETA 00:08[download]  30.8% of 15.29MiB at  1.41MiB/s ETA 00:07[download]  42.5% of 15.29MiB at  1.28MiB/s ETA 00:06[download]  49.3% of 15.29MiB at  1.25MiB/s ETA 00:06[download]  56.3% of 15.29MiB at  1.28MiB/s ETA 00:05[download]  65.3% of 15.29MiB at  1.33MiB/s ETA 00:04[download]  65.3% of 15.29MiB at 360.00KiB/s ETA 00:15[download]  65.3% of 15.29MiB at 982.81KiB/s ETA 00:05[download]  65.3% of 15.29MiB at  1.92MiB/s ETA 00:02[download]  65.3% of 15.29MiB at  3.40MiB/s ETA 00:01[download]  65.5% of 15.29MiB at 473.00KiB/s ETA 00:11[download]  65.7% of 15.29MiB at 583.20KiB/s ETA 00:09[download]  66.1% of 15.29MiB at 798.12KiB/s ETA 00:06[download]  66.9% of 15.29MiB at  1.09MiB/s ETA 00:04[download]  68.5% of 15.29MiB at  1.60MiB/s ETA 00:03[download]  71.8% of 15.29MiB at  2.05MiB/s ETA 00:02[download]  78.3% of 15.29MiB at  2.14MiB/s ETA 00:01[download]  91.4% of 15.29MiB at  2.24MiB/s ETA 00:00[download] 100.0% of 15.29MiB at  2.26MiB/s ETA 00:00[download] 100% of 15.29MiB in 00:10
+[download] Destination: Gandhi (1982) [1080p]-trailer.f140.m4a
+[download]   0.0% of 5.15MiB at 50.53KiB/s ETA 01:44[download]   0.1% of 5.15MiB at 149.27KiB/s ETA 00:35[download]   0.1% of 5.15MiB at 341.04KiB/s ETA 00:15[download]   0.3% of 5.15MiB at 708.71KiB/s ETA 00:07[download]   0.6% of 5.15MiB at 575.07KiB/s ETA 00:09[download]   1.2% of 5.15MiB at 521.09KiB/s ETA 00:10[download]   2.4% of 5.15MiB at 202.86KiB/s ETA 00:25[download]   4.8% of 5.15MiB at 367.27KiB/s ETA 00:13[download]   9.6% of 5.15MiB at 620.35KiB/s ETA 00:07[download]  19.2% of 5.15MiB at 931.91KiB/s ETA 00:04[download]  38.4% of 5.15MiB at  1.23MiB/s ETA 00:02[download]  75.6% of 5.15MiB at  1.48MiB/s ETA 00:00[download] 100.0% of 5.15MiB at  1.50MiB/s ETA 00:00[download] 100% of 5.15MiB in 00:04
+[ffmpeg] Merging formats into "Gandhi (1982) [1080p]-trailer.mp4"
+Deleting original file Gandhi (1982) [1080p]-trailer.f135.mp4 (pass -k to keep)
+Deleting original file Gandhi (1982) [1080p]-trailer.f140.m4a (pass -k to keep)
+
+
+Processing: Good Night, and Good Luck. (2005)
+|> Loaded XML from file: Good Night, and Good Luck. (2005) [SD].nfo
+|> Trailer URL found in .nfo file: http://www.youtube.com/watch?v=7C-578tLIfQ
+|> Starting Download for "Good Night and Good Luck - Trailer" (http://www.youtube.com/watch?v=7C-578tLIfQ)
+Download   0% │                                                                                                             │   0/100 (0:00:00 / ?) Download   0% │                                                                                                             │   0/100 (0:00:01 / ?) Download   0% │                                                                                                             │   0/100 (0:00:02 / ?) Download   0% │                                                                                                             │   0/100 (0:00:03 / ?) Download   4% │████                                                                                                   │   4/100 (0:00:04 / 0:01:36) Download   9% │█████████▎                                                                                             │   9/100 (0:00:05 / 0:00:50) Download  19% │███████████████████▌                                                                                   │  19/100 (0:00:06 / 0:00:25) Download  31% │███████████████████████████████▉                                                                       │  31/100 (0:00:07 / 0:00:15) 

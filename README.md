@@ -32,7 +32,7 @@ Download the .jar file from the [releases section](https://github.com/JonasCz/Ko
 
     java -jar KodiTralierDownloader.jar --input-directory "/path/to/top-level-directory/"
     
- It will (should...) do the rest (That is, download a trailer for each movie in each subdirectory of top-level-directory). I'd recommend piping the output to a file so you can check that the correct trailers were downloaded, since the youtube search for "<moviename> <year> trailer" doesn't always actually give a proper (or good) trailer, especially for more obscure movies.
+ It will (should...) do the rest (That is, download a trailer for each movie in each subdirectory of top-level-directory). I'd recommend piping the output to a file so you can check that the correct trailers were downloaded, since the youtube search for "moviename year trailer" doesn't always actually give a proper (or good) trailer, especially for more obscure movies.
  
  ---
  
