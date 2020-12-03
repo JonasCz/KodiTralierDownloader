@@ -1,4 +1,4 @@
-## Trailer download tool for Kodi media collections
+## Trailer download tool for Kodi media collections created by MediaElch
 
 Downloads trailers for movies, either from a URL defined in the .nfo file, or by searching Youtube and taking the first result.
 
